@@ -4,4 +4,4 @@ Public, signed Mac installers and a signed Sparkle update feed. Application sour
 
 Download the universal installer and adjacent SHA-256 checksum from Releases. Supports Apple silicon and Intel Macs on macOS 13.5 or later.
 
-Version 0.9.4 uses manual installation. Automatic updates require the forthcoming updater-enabled build. Publication does not resume the live pilot.
+Version 0.9.4 uses manual installation. Install 0.9.5 manually once to enable signed automatic updates for future releases. Updates download automatically and install on quit; Check for Updates is available in the Aether menu. Publication does not resume the live pilot.
