@@ -2,9 +2,9 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
 <title>Aether for Mac</title><link>https://github.com/deep-well-labs/aether-updates/releases</link><description>Signed Aether updates</description><language>en</language>
-<item><title>Aether 0.9.4</title><sparkle:version>14</sparkle:version><sparkle:shortVersionString>0.9.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/deep-well-labs/aether-updates/releases/download/v0.9.4/Aether-0.9.4-universal.dmg" sparkle:edSignature="Ht48Cuocr8I9McjIDqaraKGYI4V9I1GZV0VPQW2PJz8YjFzWvHPRLlIfatGgPi5pSTeHKDuXcbVq1VS+Lvm4Dg==" length="90073595" type="application/octet-stream"></enclosure>
+<item><title>Aether 0.9.5</title><sparkle:version>15</sparkle:version><sparkle:shortVersionString>0.9.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/deep-well-labs/aether-updates/releases/download/v0.9.5/Aether-0.9.5-universal.dmg" sparkle:edSignature="KVPLVN293wlYR4a0ZsrfCoDBoXbi3h394N+x2P2ZKcGITQkNgy4tHzif2KZwPSbEjN3n1D8bJBKLibP7dcPpBQ==" length="91158052" type="application/octet-stream"></enclosure>
 </item></channel></rss><!-- sparkle-signatures:
-edSignature: cg0BULTGkO3HT+gTLSx6uoln1hcPlUvLTp9lyjohdbd+AsgYE2dOQmyhtB7sMKnLEdk+TTmsCgxdo3c8ligiAg==
+edSignature: 7+kQWdRann79Az9dw9YoKswBO/hmbvx6SJLpQLu5QjRuzVYWddGpNXAtuZOvrQ6tFzt/TCGz9DE/aoxckYl+Dg==
 length: 1072
 -->
